@@ -1,0 +1,47 @@
+brands:
+  - name: Infinix
+    models:
+      # --- NOTE SERIES (Mid-Range / High Performance) ---
+      - Infinix Note 40 / 40 Pro / 40 Pro+ 5G
+      - Infinix Note 30 / 30 Pro / 30 5G / 30i
+      - Infinix Note 12 / 12 Pro / 12 Turbo / 12 G96
+      - Infinix Note 11 / 11 Pro / 11s / 11i
+      - Infinix Note 10 / 10 Pro
+      - Infinix Note 8 / 8i
+      - Infinix Note 7 / 7 Lite
+      - Infinix Note 5 / Note 4 / Note 3
+
+      # --- HOT SERIES (Budget / Most Common Repairs) ---
+      - Infinix Hot 40 / 40 Pro / 40i
+      - Infinix Hot 30 / 30 Play / 30i
+      - Infinix Hot 20 / 20S / 20 Play / 20i
+      - Infinix Hot 12 / 12 Pro / 12 Play / 12i
+      - Infinix Hot 11 / 11S / 11 Play
+      - Infinix Hot 10 / 10S / 10 Play / 10 Lite
+      - Infinix Hot 9 / 9 Pro / 9 Play
+      - Infinix Hot 8 / 8 Lite
+      - Infinix Hot 7 / 7 Pro
+      - Infinix Hot 6 / 6 Pro / 6X
+      - Infinix Hot 5 / 4 / 3
+
+      # --- SMART SERIES (Entry-Level) ---
+      - Infinix Smart 8 / 8 Pro / 8 Plus
+      - Infinix Smart 7 / 7 HD
+      - Infinix Smart 6 / 6 Plus / 6 HD
+      - Infinix Smart 5 / 5 Pro
+      - Infinix Smart 4 / 4 Plus
+      - Infinix Smart 3 / 3 Plus
+      - Infinix Smart 2 / 2 Pro
+
+      # --- ZERO SERIES (Flagship / Curved Screens) ---
+      - Infinix Zero 40 / 40 5G
+      - Infinix Zero 30 / 30 5G
+      - Infinix Zero 20
+      - Infinix Zero Ultra
+      - Infinix Zero X / X Pro / X Neo
+      - Infinix Zero 8 / 8i
+      - Infinix Zero 6 / 5 / 4
+
+      # --- GT SERIES (Gaming) ---
+      - Infinix GT 20 Pro
+      - Infinix GT 10 Pro
