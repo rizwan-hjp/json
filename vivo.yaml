@@ -1,51 +1,49 @@
-brands:
-  - name: Vivo
-    models:
-      # --- V SERIES (Premium / High-End Repairs) ---
-      - Vivo V40 / V40 Pro
-      - Vivo V30 / V30 Pro / V30e
-      - Vivo V29 / V29 Pro / V29e
-      - Vivo V27 / V27 Pro / V27e
-      - Vivo V25 / V25 Pro / V25e
-      - Vivo V23 / V23 Pro / V23e
-      - Vivo V21 / V21e / V21s
-      - Vivo V20 / V20 Pro / V20 SE / V20 (2021)
-      - Vivo V19 / V17 / V17 Pro
-      - Vivo V15 / V15 Pro (Pop-up Camera)
-      - Vivo V11 / V11 Pro / V11i
-      - Vivo V9 / V9 Youth
-      - Vivo V7 / V7 Plus
-      - Vivo V5 / V5s / V5 Plus
+models:
+  # --- V SERIES (Premium / High-End Repairs) ---
+  - Vivo V40 / Vivo V40 Pro
+  - Vivo V30 / Vivo V30 Pro / Vivo V30e
+  - Vivo V29 / Vivo V29 Pro / Vivo V29e
+  - Vivo V27 / Vivo V27 Pro / Vivo V27e
+  - Vivo V25 / Vivo V25 Pro / Vivo V25e
+  - Vivo V23 / Vivo V23 Pro / Vivo V23e
+  - Vivo V21 / Vivo V21e / Vivo V21s
+  - Vivo V20 / Vivo V20 Pro / Vivo V20 SE / Vivo V20 (2021)
+  - Vivo V19 / Vivo V17 / Vivo V17 Pro
+  - Vivo V15 / Vivo V15 Pro
+  - Vivo V11 / Vivo V11 Pro / Vivo V11i
+  - Vivo V9 / Vivo V9 Youth
+  - Vivo V7 / Vivo V7 Plus
+  - Vivo V5 / Vivo V5s / Vivo V5 Plus
 
-      # --- Y SERIES (Massive Spare Parts Volume) ---
-      - Vivo Y200 / Y200e / Y200 Pro
-      - Vivo Y100 / Y100A
-      - Vivo Y58 / Y56 / Y75 / Y73
-      - Vivo Y36 / Y35 / Y33s / Y33T
-      - Vivo Y28 / Y27 / Y27s
-      - Vivo Y22 / Y21 / Y21s / Y21e / Y21G
-      - Vivo Y20 / Y20i / Y20G / Y12s / Y15s
-      - Vivo Y19 / Y17 / Y15 / Y12 / Y11 (2019)
-      - Vivo Y95 / Y93 / Y91 / Y91i
-      - Vivo Y83 / Y81 / Y81i
-      - Vivo Y71 / Y55 / Y53 / Y21 (Old)
-      - Vivo Y1s / Y01 / Y02 / Y02s / Y03
+  # --- Y SERIES (Massive Spare Parts Volume) ---
+  - Vivo Y200 / Vivo Y200e / Vivo Y200 Pro
+  - Vivo Y100 / Vivo Y100A
+  - Vivo Y58 / Vivo Y56 / Vivo Y75 / Vivo Y73
+  - Vivo Y36 / Vivo Y35 / Vivo Y33s / Vivo Y33T
+  - Vivo Y28 / Vivo Y27 / Vivo Y27s
+  - Vivo Y22 / Vivo Y21 / Vivo Y21s / Vivo Y21e / Vivo Y21G
+  - Vivo Y20 / Vivo Y20i / Vivo Y20G / Vivo Y12s / Vivo Y15s
+  - Vivo Y19 / Vivo Y17 / Vivo Y15 / Vivo Y12 / Vivo Y11 (2019)
+  - Vivo Y95 / Vivo Y93 / Vivo Y91 / Vivo Y91i
+  - Vivo Y83 / Vivo Y81 / Vivo Y81i
+  - Vivo Y71 / Vivo Y55 / Vivo Y53 / Vivo Y21 (Old)
+  - Vivo Y1s / Vivo Y01 / Vivo Y02 / Vivo Y02s / Vivo Y03
 
-      # --- T SERIES / Z SERIES ---
-      - Vivo T3 / T3 Pro / T3x
-      - Vivo T2 / T2 Pro / T2x
-      - Vivo T1 / T1 Pro / T1x
-      - Vivo Z1 Pro / Z1x
+  # --- T SERIES / Z SERIES ---
+  - Vivo T3 / Vivo T3 Pro / Vivo T3x
+  - Vivo T2 / Vivo T2 Pro / Vivo T2x
+  - Vivo T1 / Vivo T1 Pro / Vivo T1x
+  - Vivo Z1 Pro / Vivo Z1x
 
-      # --- X SERIES (Flagship / Curved Screens) ---
-      - Vivo X100 / X100 Pro / X100 Ultra
-      - Vivo X90 / X90 Pro
-      - Vivo X80 / X80 Pro
-      - Vivo X70 / X70 Pro / X70 Pro+
-      - Vivo X60 / X60 Pro
-      - Vivo X50 / X50 Pro
+  # --- X SERIES (Flagship / Curved Screens) ---
+  - Vivo X100 / Vivo X100 Pro / Vivo X100 Ultra
+  - Vivo X90 / Vivo X90 Pro
+  - Vivo X80 / Vivo X80 Pro
+  - Vivo X70 / Vivo X70 Pro / Vivo X70 Pro+
+  - Vivo X60 / Vivo X60 Pro
+  - Vivo X50 / Vivo X50 Pro
 
-      # --- IQOO SERIES (Sub-brand) ---
-      - iQOO 12 / 11 / 9
-      - iQOO Neo 9 / Neo 7 / Neo 6
-      - iQOO Z9 / Z7 / Z6 / Z5 / Z3
+  # --- IQOO SERIES (Sub-brand) ---
+  - iQOO 12 / iQOO 11 / iQOO 9
+  - iQOO Neo 9 / iQOO Neo 7 / iQOO Neo 6
+  - iQOO Z9 / iQOO Z7 / iQOO Z6 / iQOO Z5 / iQOO Z3
