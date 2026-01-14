@@ -1,0 +1,45 @@
+brands:
+  - name: Motorola
+    models:
+      # --- RAZR SERIES (Foldables / High-End) ---
+      - Motorola Razr 60 Ultra / 60
+      - Motorola Razr 50 Ultra / 50
+      - Motorola Razr 40 Ultra / 40
+      - Motorola Razr (2023 / 2022)
+      - Motorola Razr Fold (Book-style 2026)
+
+      # --- EDGE SERIES (Premium / Curved Screens) ---
+      - Motorola Edge 70 Ultra / 70 Pro / 70 Fusion
+      - Motorola Edge 60 Ultra / 60 Pro / 60 Fusion / 60 Neo
+      - Motorola Edge 50 Ultra / 50 Pro / 50 Fusion / 50 Neo
+      - Motorola Edge 40 / 40 Pro / 40 Neo
+      - Motorola Edge 30 / 30 Pro / 30 Fusion / 30 Ultra / 30 Neo
+      - Motorola Edge 20 / 20 Pro / 20 Lite
+      - Motorola Edge+ (2023 / 2022 / 2020)
+
+      # --- MOTO G SERIES (High Volume / Budget-Mid) ---
+      - Moto G Power (2026 / 2025 / 2024)
+      - Moto G Stylus 5G (2026 / 2025 / 2024)
+      - Moto G Play (2026 / 2025 / 2024)
+      - Moto G86 / G86 Power
+      - Moto G85 / G84 / G82
+      - Moto G75 / G73 / G72 / G71
+      - Moto G64 / G62 / G60 / G60s
+      - Moto G55 / G54 / G53 / G52
+      - Moto G45 / G42 / G41
+      - Moto G35 / G34 / G32 / G31
+      - Moto G24 / G23 / G22
+      - Moto G15 / G14 / G13
+      - Moto G06 Power / G05
+
+      # --- MOTO E SERIES (Entry Level) ---
+      - Moto E15 / E14 / E13
+      - Moto E40 / E32 / E32s / E30
+      - Moto E22 / E22i / E22s
+      - Moto E20 / E7 / E7i Power / E7 Power
+      - Moto E6s / E6 Plus / E6 Play
+
+      # --- OTHER SERIES ---
+      - Motorola ThinkPhone 25 / ThinkPhone
+      - Moto One Fusion+ / One Hyper / One Action / One Vision
+      - Moto G Pure / G Fast / G Pro
