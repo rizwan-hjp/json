@@ -1,48 +1,46 @@
-brands:
-  - name: Realme
-    models:
-      # --- NUMBER SERIES (Main Volume) ---
-      - Realme 13 / 13 Pro / 13 Pro+
-      - Realme 12 / 12 Pro / 12 Pro+ / 12x
-      - Realme 11 / 11 Pro / 11 Pro+ / 11x
-      - Realme 10 / 10 Pro / 10 Pro+
-      - Realme 9 / 9 Pro / 9 Pro+ / 9i / 9 5G
-      - Realme 8 / 8 Pro / 8 5G / 8i / 8s 5G
-      - Realme 7 / 7 Pro / 7i / 7 5G
-      - Realme 6 / 6 Pro / 6i / 6S
-      - Realme 5 / 5 Pro / 5i / 5s
-      - Realme 3 / 3 Pro / 3i
-      - Realme 2 / 2 Pro
-      - Realme 1
+models:
+  # --- NUMBER SERIES (Main Volume) ---
+  - Realme 13 / Realme 13 Pro / Realme 13 Pro+
+  - Realme 12 / Realme 12 Pro / Realme 12 Pro+ / Realme 12x
+  - Realme 11 / Realme 11 Pro / Realme 11 Pro+ / Realme 11x
+  - Realme 10 / Realme 10 Pro / Realme 10 Pro+
+  - Realme 9 / Realme 9 Pro / Realme 9 Pro+ / Realme 9i / Realme 9 5G
+  - Realme 8 / Realme 8 Pro / Realme 8 5G / Realme 8i / Realme 8s 5G
+  - Realme 7 / Realme 7 Pro / Realme 7i / Realme 7 5G
+  - Realme 6 / Realme 6 Pro / Realme 6i / Realme 6S
+  - Realme 5 / Realme 5 Pro / Realme 5i / Realme 5s
+  - Realme 3 / Realme 3 Pro / Realme 3i
+  - Realme 2 / Realme 2 Pro
+  - Realme 1
 
-      # --- C SERIES (Budget / Most Common Repairs) ---
-      - Realme C67 / C65 / C63
-      - Realme C55 / C53 / C51
-      - Realme C35 / C33 / C31 / C30
-      - Realme C25 / C25s / C25Y / C21 / C21Y
-      - Realme C17 / C15 / C12 / C11 (2021)
-      - Realme C11 / C3 / C3i
-      - Realme C2 / C1
+  # --- C SERIES (Budget / Most Common Repairs) ---
+  - Realme C67 / Realme C65 / Realme C63
+  - Realme C55 / Realme C53 / Realme C51
+  - Realme C35 / Realme C33 / Realme C31 / Realme C30
+  - Realme C25 / Realme C25s / Realme C25Y / Realme C21 / Realme C21Y
+  - Realme C17 / Realme C15 / Realme C12 / Realme C11 (2021)
+  - Realme C11 / Realme C3 / Realme C3i
+  - Realme C2 / Realme C1
 
-      # --- NARZO SERIES ---
-      - Realme Narzo 70 / 70 Pro / 70x
-      - Realme Narzo 60 / 60 Pro
-      - Realme Narzo 50 / 50 Pro / 50A / 50i
-      - Realme Narzo 30 / 30 Pro / 30A
-      - Realme Narzo 20 / 20 Pro / 20A
-      - Realme Narzo 10 / 10A
+  # --- NARZO SERIES ---
+  - Realme Narzo 70 / Realme Narzo 70 Pro / Realme Narzo 70x
+  - Realme Narzo 60 / Realme Narzo 60 Pro
+  - Realme Narzo 50 / Realme Narzo 50 Pro / Realme Narzo 50A / Realme Narzo 50i
+  - Realme Narzo 30 / Realme Narzo 30 Pro / Realme Narzo 30A
+  - Realme Narzo 20 / Realme Narzo 20 Pro / Realme Narzo 20A
+  - Realme Narzo 10 / Realme Narzo 10A
 
-      # --- GT / NEO / X SERIES (Performance) ---
-      - Realme GT 6 / 6T
-      - Realme GT 5 / 5 240W
-      - Realme GT Neo 6 / Neo 5 / Neo 3 / Neo 2
-      - Realme GT 2 / GT 2 Pro
-      - Realme GT Master Edition
-      - Realme X7 / X7 Pro / X7 Max
-      - Realme X3 / X3 SuperZoom
-      - Realme X2 / X2 Pro
-      - Realme XT / X
+  # --- GT / NEO / X SERIES (Performance) ---
+  - Realme GT 6 / Realme GT 6T
+  - Realme GT 5 / Realme GT 5 240W
+  - Realme GT Neo 6 / Realme GT Neo 5 / Realme GT Neo 3 / Realme GT Neo 2
+  - Realme GT 2 / Realme GT 2 Pro
+  - Realme GT Master Edition
+  - Realme X7 / Realme X7 Pro / Realme X7 Max
+  - Realme X3 / Realme X3 SuperZoom
+  - Realme X2 / Realme X2 Pro
+  - Realme XT / Realme X
 
-      # --- PAD SERIES (Tablets) ---
-      - Realme Pad 2
-      - Realme Pad / Pad Mini / Pad X
+  # --- PAD SERIES (Tablets) ---
+  - Realme Pad 2
+  - Realme Pad / Realme Pad Mini / Realme Pad X
