@@ -1,30 +1,77 @@
 models:
   # --- FLAGSHIP SERIES (Numerical / High-End Repairs) ---
-  - iQOO 15 / iQOO 15 Pro / iQOO 15 Ultra
-  - iQOO 13 / iQOO 13 Pro
-  - iQOO 12 / iQOO 12 Pro
-  - iQOO 11 / iQOO 11S / iQOO 11 Pro
-  - iQOO 10 / iQOO 10 Pro
-  - iQOO 9 / iQOO 9 Pro / iQOO 9T / iQOO 9 SE
-  - iQOO 8 / iQOO 8 Pro
-  - iQOO 7 / iQOO 7 Legend
+  - iQOO 15
+  - iQOO 15 Pro
+  - iQOO 15 Ultra
+  - iQOO 13
+  - iQOO 13 Pro
+  - iQOO 12
+  - iQOO 12 Pro
+  - iQOO 11
+  - iQOO 11S
+  - iQOO 11 Pro
+  - iQOO 10
+  - iQOO 10 Pro
+  - iQOO 9
+  - iQOO 9 Pro
+  - iQOO 9T
+  - iQOO 9 SE
+  - iQOO 8
+  - iQOO 8 Pro
+  - iQOO 7
+  - iQOO 7 Legend
   - iQOO 3
 
   # --- NEO SERIES (Gaming Mid-Range / Popular) ---
-  - iQOO Neo 11 / iQOO Neo 11 Pro
-  - iQOO Neo 10 / iQOO Neo 10 Pro / iQOO Neo 10R / iQOO Neo 10 Pro+
-  - iQOO Neo 9 / iQOO Neo 9 Pro / iQOO Neo 9S Pro+
-  - iQOO Neo 8 / iQOO Neo 8 Pro
-  - iQOO Neo 7 / iQOO Neo 7 Pro / iQOO Neo 7 Racing / iQOO Neo 7 SE
-  - iQOO Neo 6 / iQOO Neo 6 SE
-  - iQOO Neo 5 / iQOO Neo 5S / iQOO Neo 5 Lite
+  - iQOO Neo 11
+  - iQOO Neo 11 Pro
+  - iQOO Neo 10
+  - iQOO Neo 10 Pro
+  - iQOO Neo 10R
+  - iQOO Neo 10 Pro+
+  - iQOO Neo 9
+  - iQOO Neo 9 Pro
+  - iQOO Neo 9S Pro+
+  - iQOO Neo 8
+  - iQOO Neo 8 Pro
+  - iQOO Neo 7
+  - iQOO Neo 7 Pro
+  - iQOO Neo 7 Racing
+  - iQOO Neo 7 SE
+  - iQOO Neo 6
+  - iQOO Neo 6 SE
+  - iQOO Neo 5
+  - iQOO Neo 5S
+  - iQOO Neo 5 Lite
 
   # --- Z SERIES (Budget Performance / High Volume) ---
-  - iQOO Z11 / iQOO Z11 Turbo / iQOO Z11x
-  - iQOO Z10 / iQOO Z10 Turbo / iQOO Z10 Turbo+ / iQOO Z10x / iQOO Z10 Lite
-  - iQOO Z9 / iQOO Z9 Pro / iQOO Z9s / iQOO Z9s Pro / iQOO Z9x / iQOO Z9 Lite
-  - iQOO Z8 / iQOO Z8x
-  - iQOO Z7 / iQOO Z7 Pro / iQOO Z7s / iQOO Z7x / iQOO Z7i
-  - iQOO Z6 / iQOO Z6 Pro / iQOO Z6 44W / iQOO Z6 Lite / iQOO Z6x
-  - iQOO Z5 / iQOO Z5x
-  - iQOO Z3 / iQOO Z1
+  - iQOO Z11
+  - iQOO Z11 Turbo
+  - iQOO Z11x
+  - iQOO Z10
+  - iQOO Z10 Turbo
+  - iQOO Z10 Turbo+
+  - iQOO Z10x
+  - iQOO Z10 Lite
+  - iQOO Z9
+  - iQOO Z9 Pro
+  - iQOO Z9s
+  - iQOO Z9s Pro
+  - iQOO Z9x
+  - iQOO Z9 Lite
+  - iQOO Z8
+  - iQOO Z8x
+  - iQOO Z7
+  - iQOO Z7 Pro
+  - iQOO Z7s
+  - iQOO Z7x
+  - iQOO Z7i
+  - iQOO Z6
+  - iQOO Z6 Pro
+  - iQOO Z6 44W
+  - iQOO Z6 Lite
+  - iQOO Z6x
+  - iQOO Z5
+  - iQOO Z5x
+  - iQOO Z3
+  - iQOO Z1
