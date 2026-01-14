@@ -1,0 +1,80 @@
+brands:
+  - name: Xiaomi
+    models:
+      # --- XIAOMI / MI SERIES (Flagship & Premium) ---
+      - Xiaomi 14 / 14 Ultra / 14 Pro
+      - Xiaomi 13 / 13 Pro / 13 Ultra / 13 Lite
+      - Xiaomi 12 / 12 Pro / 12X / 12 Lite
+      - Xiaomi 11T / 11T Pro
+      - Mi 11 / 11 Pro / 11 Ultra / 11 Lite 4G / 5G
+      - Mi 10 / 10 Pro / 10 Ultra / 10 Lite
+      - Mi 10T / 10T Pro / 10T Lite
+      - Mi 9 / 9 Pro / 9 SE / 9 Lite
+      - Mi 9T / 9T Pro
+      - Mi 8 / 8 Pro / 8 SE / 8 Lite
+      - Mi 6 / Mi 5 / Mi 4
+      - Mi A3 / Mi A2 / Mi A2 Lite / Mi A1
+      - Mi Note 10 / Note 10 Pro / Note 10 Lite
+
+      # --- REDMI NOTE SERIES (The Biggest Sellers) ---
+      - Redmi Note 13 Pro+ 5G
+      - Redmi Note 13 Pro 5G / 4G
+      - Redmi Note 13 5G / 4G
+      - Redmi Note 12 Pro+ 5G
+      - Redmi Note 12 Pro 5G / 4G
+      - Redmi Note 12 5G / 4G / 12S
+      - Redmi Note 11 Pro+ 5G
+      - Redmi Note 11 Pro 5G / 4G
+      - Redmi Note 11 / 11S / 11T 5G
+      - Redmi Note 10 Pro / Max
+      - Redmi Note 10 / 10S / 10T 5G
+      - Redmi Note 9 Pro / Max / 9S
+      - Redmi Note 9 / 9T 5G
+      - Redmi Note 8 Pro
+      - Redmi Note 8 / 8T / 8 (2021)
+      - Redmi Note 7 / 7 Pro / 7S
+      - Redmi Note 6 Pro
+      - Redmi Note 5 / 5 Pro / 5A / 5A Prime
+      - Redmi Note 4 / 4X
+      - Redmi Note 3
+
+      # --- REDMI SERIES (Budget / High Volume) ---
+      - Redmi 13C / 13C 5G
+      - Redmi 12 / 12 5G
+      - Redmi 10 / 10 2022 / 10 Prime
+      - Redmi 10C / 10A
+      - Redmi 9 / 9 Prime / 9 Power
+      - Redmi 9A / 9AT / 9i / 9C
+      - Redmi 8 / 8A / 8A Dual
+      - Redmi 7 / 7A
+      - Redmi 6 / 6A / 6 Pro
+      - Redmi 5 / 5A / 5 Plus
+      - Redmi 4 / 4A / 4X
+      - Redmi A3 / A3x
+      - Redmi A2 / A2+
+      - Redmi A1 / A1+
+
+      # --- POCO SERIES (Online Models) ---
+      - POCO X6 / X6 Pro / X6 Neo
+      - POCO X5 / X5 Pro 5G
+      - POCO X4 Pro 5G / X4 GT
+      - POCO X3 / X3 Pro / X3 GT
+      - POCO X2
+      - POCO M6 / M6 Pro 5G
+      - POCO M5 / M5s
+      - POCO M4 / M4 Pro (4G/5G)
+      - POCO M3 / M3 Pro 5G
+      - POCO M2 / M2 Pro / M2 Reloaded
+      - POCO F5 / F5 Pro
+      - POCO F4 / F4 GT
+      - POCO F3 / F3 GT
+      - POCO F2 Pro
+      - POCO F1
+      - POCO C65 / C55 / C51 / C50
+      - POCO C3 / C31
+
+      # --- MI PAD SERIES (Tablets) ---
+      - Xiaomi Pad 6 / 6 Pro / 6 Max
+      - Xiaomi Pad 5 / 5 Pro
+      - Mi Pad 4 / 4 Plus
+      - Mi Pad 3 / 2
