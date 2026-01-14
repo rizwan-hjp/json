@@ -1,36 +1,36 @@
-    models:
-      # --- LATEST GENERATION (2025-2026) ---
-      - Pixel 11 Pro XL / 11 Pro / 11
-      - Pixel 11 Pro Fold
-      - Pixel 10a (2026)
-      - Pixel 10 Pro XL / 10 Pro / 10
-      - Pixel 10 Pro Fold
+models:
+  # --- LATEST GENERATION (2025–2026) ---
+  - Pixel 11 Pro XL / Pixel 11 Pro / Pixel 11
+  - Pixel 11 Pro Fold
+  - Pixel 10a (2026)
+  - Pixel 10 Pro XL / Pixel 10 Pro / Pixel 10
+  - Pixel 10 Pro Fold
 
-      # --- 9 & 8 SERIES (High Volume) ---
-      - Pixel 9a (2025)
-      - Pixel 9 Pro XL / 9 Pro / 9
-      - Pixel 9 Pro Fold
-      - Pixel 8a
-      - Pixel 8 Pro / 8
+  # --- PIXEL 9 & 8 SERIES (High Volume) ---
+  - Pixel 9a (2025)
+  - Pixel 9 Pro XL / Pixel 9 Pro / Pixel 9
+  - Pixel 9 Pro Fold
+  - Pixel 8a
+  - Pixel 8 Pro / Pixel 8
 
-      # --- 7 & 6 SERIES ---
-      - Pixel 7a
-      - Pixel 7 Pro / 7
-      - Pixel 6a
-      - Pixel 6 Pro / 6
-      - Pixel Fold (Original)
+  # --- PIXEL 7 & 6 SERIES ---
+  - Pixel 7a
+  - Pixel 7 Pro / Pixel 7
+  - Pixel 6a
+  - Pixel 6 Pro / Pixel 6
+  - Pixel Fold (1st Generation)
 
-      # --- LEGACY 5G MODELS ---
-      - Pixel 5a 5G
-      - Pixel 5
-      - Pixel 4a 5G
+  # --- LEGACY 5G MODELS ---
+  - Pixel 5a 5G
+  - Pixel 5
+  - Pixel 4a 5G
 
-      # --- CLASSIC MODELS (LCD/Battery Heavy) ---
-      - Pixel 4 / 4 XL / 4a
-      - Pixel 3 / 3 XL / 3a / 3a XL
-      - Pixel 2 / 2 XL
-      - Pixel / Pixel XL (Original)
+  # --- CLASSIC MODELS (LCD / Battery Repairs) ---
+  - Pixel 4 / Pixel 4 XL / Pixel 4a
+  - Pixel 3 / Pixel 3 XL / Pixel 3a / Pixel 3a XL
+  - Pixel 2 / Pixel 2 XL
+  - Pixel / Pixel XL (1st Generation)
 
-      # --- TABLET SERIES ---
-      - Pixel Tablet 2 (2026)
-      - Pixel Tablet
+  # --- TABLET SERIES ---
+  - Pixel Tablet 2 (2026)
+  - Pixel Tablet
