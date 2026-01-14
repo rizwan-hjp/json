@@ -1,47 +1,45 @@
-brands:
-  - name: Infinix
-    models:
-      # --- NOTE SERIES (Mid-Range / High Performance) ---
-      - Infinix Note 40 / 40 Pro / 40 Pro+ 5G
-      - Infinix Note 30 / 30 Pro / 30 5G / 30i
-      - Infinix Note 12 / 12 Pro / 12 Turbo / 12 G96
-      - Infinix Note 11 / 11 Pro / 11s / 11i
-      - Infinix Note 10 / 10 Pro
-      - Infinix Note 8 / 8i
-      - Infinix Note 7 / 7 Lite
-      - Infinix Note 5 / Note 4 / Note 3
+models:
+  # --- NOTE SERIES (Mid-Range / High Performance) ---
+  - Infinix Note 40 / Note 40 Pro / Note 40 Pro+ 5G
+  - Infinix Note 30 / Note 30 Pro / Note 30 5G / Note 30i
+  - Infinix Note 12 / Note 12 Pro / Note 12 Turbo / Note 12 G96
+  - Infinix Note 11 / Note 11 Pro / Note 11s / Note 11i
+  - Infinix Note 10 / Note 10 Pro
+  - Infinix Note 8 / Note 8i
+  - Infinix Note 7 / Note 7 Lite
+  - Infinix Note 5 / Note 4 / Note 3
 
-      # --- HOT SERIES (Budget / Most Common Repairs) ---
-      - Infinix Hot 40 / 40 Pro / 40i
-      - Infinix Hot 30 / 30 Play / 30i
-      - Infinix Hot 20 / 20S / 20 Play / 20i
-      - Infinix Hot 12 / 12 Pro / 12 Play / 12i
-      - Infinix Hot 11 / 11S / 11 Play
-      - Infinix Hot 10 / 10S / 10 Play / 10 Lite
-      - Infinix Hot 9 / 9 Pro / 9 Play
-      - Infinix Hot 8 / 8 Lite
-      - Infinix Hot 7 / 7 Pro
-      - Infinix Hot 6 / 6 Pro / 6X
-      - Infinix Hot 5 / 4 / 3
+  # --- HOT SERIES (Budget / Most Common Repairs) ---
+  - Infinix Hot 40 / Hot 40 Pro / Hot 40i
+  - Infinix Hot 30 / Hot 30 Play / Hot 30i
+  - Infinix Hot 20 / Hot 20S / Hot 20 Play / Hot 20i
+  - Infinix Hot 12 / Hot 12 Pro / Hot 12 Play / Hot 12i
+  - Infinix Hot 11 / Hot 11S / Hot 11 Play
+  - Infinix Hot 10 / Hot 10S / Hot 10 Play / Hot 10 Lite
+  - Infinix Hot 9 / Hot 9 Pro / Hot 9 Play
+  - Infinix Hot 8 / Hot 8 Lite
+  - Infinix Hot 7 / Hot 7 Pro
+  - Infinix Hot 6 / Hot 6 Pro / Hot 6X
+  - Infinix Hot 5 / Hot 4 / Hot 3
 
-      # --- SMART SERIES (Entry-Level) ---
-      - Infinix Smart 8 / 8 Pro / 8 Plus
-      - Infinix Smart 7 / 7 HD
-      - Infinix Smart 6 / 6 Plus / 6 HD
-      - Infinix Smart 5 / 5 Pro
-      - Infinix Smart 4 / 4 Plus
-      - Infinix Smart 3 / 3 Plus
-      - Infinix Smart 2 / 2 Pro
+  # --- SMART SERIES (Entry-Level) ---
+  - Infinix Smart 8 / Smart 8 Pro / Smart 8 Plus
+  - Infinix Smart 7 / Smart 7 HD
+  - Infinix Smart 6 / Smart 6 Plus / Smart 6 HD
+  - Infinix Smart 5 / Smart 5 Pro
+  - Infinix Smart 4 / Smart 4 Plus
+  - Infinix Smart 3 / Smart 3 Plus
+  - Infinix Smart 2 / Smart 2 Pro
 
-      # --- ZERO SERIES (Flagship / Curved Screens) ---
-      - Infinix Zero 40 / 40 5G
-      - Infinix Zero 30 / 30 5G
-      - Infinix Zero 20
-      - Infinix Zero Ultra
-      - Infinix Zero X / X Pro / X Neo
-      - Infinix Zero 8 / 8i
-      - Infinix Zero 6 / 5 / 4
+  # --- ZERO SERIES (Flagship / Curved AMOLED) ---
+  - Infinix Zero 40 / Zero 40 5G
+  - Infinix Zero 30 / Zero 30 5G
+  - Infinix Zero 20
+  - Infinix Zero Ultra
+  - Infinix Zero X / Zero X Pro / Zero X Neo
+  - Infinix Zero 8 / Zero 8i
+  - Infinix Zero 6 / Zero 5 / Zero 4
 
-      # --- GT SERIES (Gaming) ---
-      - Infinix GT 20 Pro
-      - Infinix GT 10 Pro
+  # --- GT SERIES (Gaming) ---
+  - Infinix GT 20 Pro
+  - Infinix GT 10 Pro
