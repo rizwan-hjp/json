@@ -1,45 +1,43 @@
-brands:
-  - name: Motorola
-    models:
-      # --- RAZR SERIES (Foldables / High-End) ---
-      - Motorola Razr 60 Ultra / 60
-      - Motorola Razr 50 Ultra / 50
-      - Motorola Razr 40 Ultra / 40
-      - Motorola Razr (2023 / 2022)
-      - Motorola Razr Fold (Book-style 2026)
+models:
+  # --- RAZR SERIES (Foldables / High-End) ---
+  - Motorola Razr 60 Ultra / Motorola Razr 60
+  - Motorola Razr 50 Ultra / Motorola Razr 50
+  - Motorola Razr 40 Ultra / Motorola Razr 40
+  - Motorola Razr (2023) / Motorola Razr (2022)
+  - Motorola Razr Fold (Book-Style, 2026)
 
-      # --- EDGE SERIES (Premium / Curved Screens) ---
-      - Motorola Edge 70 Ultra / 70 Pro / 70 Fusion
-      - Motorola Edge 60 Ultra / 60 Pro / 60 Fusion / 60 Neo
-      - Motorola Edge 50 Ultra / 50 Pro / 50 Fusion / 50 Neo
-      - Motorola Edge 40 / 40 Pro / 40 Neo
-      - Motorola Edge 30 / 30 Pro / 30 Fusion / 30 Ultra / 30 Neo
-      - Motorola Edge 20 / 20 Pro / 20 Lite
-      - Motorola Edge+ (2023 / 2022 / 2020)
+  # --- EDGE SERIES (Premium / Curved Displays) ---
+  - Motorola Edge 70 Ultra / Motorola Edge 70 Pro / Motorola Edge 70 Fusion
+  - Motorola Edge 60 Ultra / Motorola Edge 60 Pro / Motorola Edge 60 Fusion / Motorola Edge 60 Neo
+  - Motorola Edge 50 Ultra / Motorola Edge 50 Pro / Motorola Edge 50 Fusion / Motorola Edge 50 Neo
+  - Motorola Edge 40 / Motorola Edge 40 Pro / Motorola Edge 40 Neo
+  - Motorola Edge 30 / Motorola Edge 30 Pro / Motorola Edge 30 Fusion / Motorola Edge 30 Ultra / Motorola Edge 30 Neo
+  - Motorola Edge 20 / Motorola Edge 20 Pro / Motorola Edge 20 Lite
+  - Motorola Edge+ (2023) / Motorola Edge+ (2022) / Motorola Edge+ (2020)
 
-      # --- MOTO G SERIES (High Volume / Budget-Mid) ---
-      - Moto G Power (2026 / 2025 / 2024)
-      - Moto G Stylus 5G (2026 / 2025 / 2024)
-      - Moto G Play (2026 / 2025 / 2024)
-      - Moto G86 / G86 Power
-      - Moto G85 / G84 / G82
-      - Moto G75 / G73 / G72 / G71
-      - Moto G64 / G62 / G60 / G60s
-      - Moto G55 / G54 / G53 / G52
-      - Moto G45 / G42 / G41
-      - Moto G35 / G34 / G32 / G31
-      - Moto G24 / G23 / G22
-      - Moto G15 / G14 / G13
-      - Moto G06 Power / G05
+  # --- MOTO G SERIES (High Volume / Budget–Midrange) ---
+  - Moto G Power (2026) / Moto G Power (2025) / Moto G Power (2024)
+  - Moto G Stylus 5G (2026) / Moto G Stylus 5G (2025) / Moto G Stylus 5G (2024)
+  - Moto G Play (2026) / Moto G Play (2025) / Moto G Play (2024)
+  - Moto G86 / Moto G86 Power
+  - Moto G85 / Moto G84 / Moto G82
+  - Moto G75 / Moto G73 / Moto G72 / Moto G71
+  - Moto G64 / Moto G62 / Moto G60 / Moto G60s
+  - Moto G55 / Moto G54 / Moto G53 / Moto G52
+  - Moto G45 / Moto G42 / Moto G41
+  - Moto G35 / Moto G34 / Moto G32 / Moto G31
+  - Moto G24 / Moto G23 / Moto G22
+  - Moto G15 / Moto G14 / Moto G13
+  - Moto G06 Power / Moto G05
 
-      # --- MOTO E SERIES (Entry Level) ---
-      - Moto E15 / E14 / E13
-      - Moto E40 / E32 / E32s / E30
-      - Moto E22 / E22i / E22s
-      - Moto E20 / E7 / E7i Power / E7 Power
-      - Moto E6s / E6 Plus / E6 Play
+  # --- MOTO E SERIES (Entry Level) ---
+  - Moto E15 / Moto E14 / Moto E13
+  - Moto E40 / Moto E32 / Moto E32s / Moto E30
+  - Moto E22 / Moto E22i / Moto E22s
+  - Moto E20 / Moto E7 / Moto E7i Power / Moto E7 Power
+  - Moto E6s / Moto E6 Plus / Moto E6 Play
 
-      # --- OTHER SERIES ---
-      - Motorola ThinkPhone 25 / ThinkPhone
-      - Moto One Fusion+ / One Hyper / One Action / One Vision
-      - Moto G Pure / G Fast / G Pro
+  # --- OTHER SERIES ---
+  - Motorola ThinkPhone 25 / Motorola ThinkPhone
+  - Moto One Fusion+ / Moto One Hyper / Moto One Action / Moto One Vision
+  - Moto G Pure / Moto G Fast / Moto G Pro
