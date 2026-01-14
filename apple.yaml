@@ -1,64 +1,62 @@
-brands:
-  - name: Apple
-    models:
-      # --- LATEST GENERATION (2025-2026) ---
-      - iPhone 17 Pro Max
-      - iPhone 17 Pro
-      - iPhone 17 Plus
-      - iPhone 17
-      - iPhone 17 Air / Slim
+models:
+  # --- LATEST GENERATION (2025-2026) ---
+  - iPhone 17 Pro Max
+  - iPhone 17 Pro
+  - iPhone 17 Plus
+  - iPhone 17
+  - iPhone 17 Air / Slim
 
-      # --- 16 SERIES ---
-      - iPhone 16 Pro Max
-      - iPhone 16 Pro
-      - iPhone 16 Plus
-      - iPhone 16
+  # --- 16 SERIES ---
+  - iPhone 16 Pro Max
+  - iPhone 16 Pro
+  - iPhone 16 Plus
+  - iPhone 16
 
-      # --- 15 SERIES (USB-C Transition) ---
-      - iPhone 15 Pro Max
-      - iPhone 15 Pro
-      - iPhone 15 Plus
-      - iPhone 15
+  # --- 15 SERIES (USB-C Transition) ---
+  - iPhone 15 Pro Max
+  - iPhone 15 Pro
+  - iPhone 15 Plus
+  - iPhone 15
 
-      # --- 14 & 13 SERIES ---
-      - iPhone 14 Pro Max
-      - iPhone 14 Pro
-      - iPhone 14 Plus
-      - iPhone 14
-      - iPhone 13 Pro Max
-      - iPhone 13 Pro
-      - iPhone 13
-      - iPhone 13 mini
+  # --- 14 & 13 SERIES ---
+  - iPhone 14 Pro Max
+  - iPhone 14 Pro
+  - iPhone 14 Plus
+  - iPhone 14
+  - iPhone 13 Pro Max
+  - iPhone 13 Pro
+  - iPhone 13
+  - iPhone 13 mini
 
-      # --- 12 & 11 SERIES (High Volume LCD/Battery) ---
-      - iPhone 12 Pro Max
-      - iPhone 12 Pro
-      - iPhone 12
-      - iPhone 12 mini
-      - iPhone 11 Pro Max
-      - iPhone 11 Pro
-      - iPhone 11
+  # --- 12 & 11 SERIES (High Volume LCD/Battery) ---
+  - iPhone 12 Pro Max
+  - iPhone 12 Pro
+  - iPhone 12
+  - iPhone 12 mini
+  - iPhone 11 Pro Max
+  - iPhone 11 Pro
+  - iPhone 11
 
-      # --- X & XS SERIES ---
-      - iPhone XS Max
-      - iPhone XS
-      - iPhone XR
-      - iPhone X
+  # --- X & XS SERIES ---
+  - iPhone XS Max
+  - iPhone XS
+  - iPhone XR
+  - iPhone X
 
-      # --- SE SERIES (Budget) ---
-      - iPhone SE (4th Gen - 2025)
-      - iPhone SE (3rd Gen - 2022)
-      - iPhone SE (2nd Gen - 2020)
+  # --- SE SERIES (Budget) ---
+  - iPhone SE (4th Gen - 2025)
+  - iPhone SE (3rd Gen - 2022)
+  - iPhone SE (2nd Gen - 2020)
 
-      # --- LEGACY MODELS (Home Button Series) ---
-      - iPhone 8 Plus / 8
-      - iPhone 7 Plus / 7
-      - iPhone 6s Plus / 6s
-      - iPhone 6 Plus / 6
-      - iPhone 5s / 5 / 5c
+  # --- LEGACY MODELS (Home Button Series) ---
+  - iPhone 8 Plus / 8
+  - iPhone 7 Plus / 7
+  - iPhone 6s Plus / 6s
+  - iPhone 6 Plus / 6
+  - iPhone 5s / 5 / 5c
 
-      # --- IPAD SERIES (Tablets) ---
-      - iPad Pro (M4 / M2)
-      - iPad Air (M2 / M1)
-      - iPad (10th / 9th Gen)
-      - iPad mini (7th / 6th Gen)
+  # --- IPAD SERIES (Tablets) ---
+  - iPad Pro (M4 / M2)
+  - iPad Air (M2 / M1)
+  - iPad (10th / 9th Gen)
+  - iPad mini (7th / 6th Gen)
