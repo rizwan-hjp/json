@@ -1,61 +1,59 @@
-brands:
-  - name: OPPO
-    models:
-      # --- RENO SERIES (Premium Parts) ---
-      - Reno 12 / 12 Pro / 12S
-      - Reno 11 / 11 Pro / 11F
-      - Reno 10 / 10 Pro / 10 Pro+
-      - Reno 8 / 8 Pro / 8 Lite / 8T
-      - Reno 7 / 7 Pro / 7Z / 7SE
-      - Reno 6 / 6 Pro / 6Z
-      - Reno 5 / 5 Pro / 5 Lite / 5F
-      - Reno 4 / 4 Pro / 4 Lite / 4Z
-      - Reno 3 / 3 Pro
-      - Reno 2 / 2F / 2Z
-      - Reno / Reno 10x Zoom
+models:
+  # --- RENO SERIES (Premium Parts) ---
+  - OPPO Reno 12 / OPPO Reno 12 Pro / OPPO Reno 12S
+  - OPPO Reno 11 / OPPO Reno 11 Pro / OPPO Reno 11F
+  - OPPO Reno 10 / OPPO Reno 10 Pro / OPPO Reno 10 Pro+
+  - OPPO Reno 8 / OPPO Reno 8 Pro / OPPO Reno 8 Lite / OPPO Reno 8T
+  - OPPO Reno 7 / OPPO Reno 7 Pro / OPPO Reno 7Z / OPPO Reno 7 SE
+  - OPPO Reno 6 / OPPO Reno 6 Pro / OPPO Reno 6Z
+  - OPPO Reno 5 / OPPO Reno 5 Pro / OPPO Reno 5 Lite / OPPO Reno 5F
+  - OPPO Reno 4 / OPPO Reno 4 Pro / OPPO Reno 4 Lite / OPPO Reno 4Z
+  - OPPO Reno 3 / OPPO Reno 3 Pro
+  - OPPO Reno 2 / OPPO Reno 2F / OPPO Reno 2Z
+  - OPPO Reno / OPPO Reno 10x Zoom
 
-      # --- A SERIES (High Volume Spare Parts) ---
-      - OPPO A3 / A3 Pro / A3x
-      - OPPO A18 / A38 / A58 / A78 / A98
-      - OPPO A17 / A17k
-      - OPPO A16 / A16s / A16k
-      - OPPO A15 / A15s
-      - OPPO A96 / A95 / A94 / A93
-      - OPPO A77 / A77s / A76 / A74
-      - OPPO A57 (2022) / A57s
-      - OPPO A55 / A54 / A53 / A53s
-      - OPPO A52 / A72 / A92
-      - OPPO A31 / A33 (2020)
-      - OPPO A5 (2020) / A9 (2020)
-      - OPPO A1k / A3s / A5s / A7
-      - OPPO A83 / A71 / A57 (Old)
-      - OPPO A37 / A37f
+  # --- A SERIES (High Volume Spare Parts) ---
+  - OPPO A3 / OPPO A3 Pro / OPPO A3x
+  - OPPO A18 / OPPO A38 / OPPO A58 / OPPO A78 / OPPO A98
+  - OPPO A17 / OPPO A17k
+  - OPPO A16 / OPPO A16s / OPPO A16k
+  - OPPO A15 / OPPO A15s
+  - OPPO A96 / OPPO A95 / OPPO A94 / OPPO A93
+  - OPPO A77 / OPPO A77s / OPPO A76 / OPPO A74
+  - OPPO A57 (2022) / OPPO A57s
+  - OPPO A55 / OPPO A54 / OPPO A53 / OPPO A53s
+  - OPPO A52 / OPPO A72 / OPPO A92
+  - OPPO A31 / OPPO A33 (2020)
+  - OPPO A5 (2020) / OPPO A9 (2020)
+  - OPPO A1k / OPPO A3s / OPPO A5s / OPPO A7
+  - OPPO A83 / OPPO A71 / OPPO A57 (Legacy)
+  - OPPO A37 / OPPO A37f
 
-      # --- F SERIES (Selfie Expert / Popular in Asia) ---
-      - OPPO F27 / F27 Pro+
-      - OPPO F25 Pro
-      - OPPO F23
-      - OPPO F21 Pro / F21s Pro
-      - OPPO F19 / F19 Pro / F19 Pro+
-      - OPPO F17 / F17 Pro
-      - OPPO F15
-      - OPPO F11 / F11 Pro
-      - OPPO F9 / F9 Pro
-      - OPPO F7 / F7 Youth
-      - OPPO F5 / F5 Youth
-      - OPPO F3 / F3 Plus
-      - OPPO F1 / F1s / F1 Plus
+  # --- F SERIES (Selfie Expert / Asia Market) ---
+  - OPPO F27 / OPPO F27 Pro+
+  - OPPO F25 Pro
+  - OPPO F23
+  - OPPO F21 Pro / OPPO F21s Pro
+  - OPPO F19 / OPPO F19 Pro / OPPO F19 Pro+
+  - OPPO F17 / OPPO F17 Pro
+  - OPPO F15
+  - OPPO F11 / OPPO F11 Pro
+  - OPPO F9 / OPPO F9 Pro
+  - OPPO F7 / OPPO F7 Youth
+  - OPPO F5 / OPPO F5 Youth
+  - OPPO F3 / OPPO F3 Plus
+  - OPPO F1 / OPPO F1s / OPPO F1 Plus
 
-      # --- FIND SERIES (Flagship) ---
-      - Find X7 / X7 Ultra
-      - Find X6 / X6 Pro
-      - Find X5 / X5 Pro / X5 Lite
-      - Find X3 / X3 Pro / X3 Neo / X3 Lite
-      - Find X2 / X2 Pro
-      - Find X
+  # --- FIND SERIES (Flagship) ---
+  - OPPO Find X7 / OPPO Find X7 Ultra
+  - OPPO Find X6 / OPPO Find X6 Pro
+  - OPPO Find X5 / OPPO Find X5 Pro / OPPO Find X5 Lite
+  - OPPO Find X3 / OPPO Find X3 Pro / OPPO Find X3 Neo / OPPO Find X3 Lite
+  - OPPO Find X2 / OPPO Find X2 Pro
+  - OPPO Find X
 
-      # --- K SERIES ---
-      - OPPO K12 / K12x
-      - OPPO K11 / K11x
-      - OPPO K10 / K10 Pro / K10 5G
-      - OPPO K9 / K9s / K9 Pro
+  # --- K SERIES (Online / Performance Budget) ---
+  - OPPO K12 / OPPO K12x
+  - OPPO K11 / OPPO K11x
+  - OPPO K10 / OPPO K10 Pro / OPPO K10 5G
+  - OPPO K9 / OPPO K9s / OPPO K9 Pro
