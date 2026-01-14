@@ -1,0 +1,32 @@
+brands:
+  - name: iQOO
+    models:
+      # --- FLAGSHIP SERIES (Numerical - High-End Repairs) ---
+      - iQOO 15 / 15 Pro / 15 Ultra
+      - iQOO 13 / 13 Pro
+      - iQOO 12 / 12 Pro
+      - iQOO 11 / 11S / 11 Pro
+      - iQOO 10 / 10 Pro
+      - iQOO 9 / 9 Pro / 9T / 9 SE
+      - iQOO 8 / 8 Pro
+      - iQOO 7 / 7 Legend
+      - iQOO 3
+
+      # --- NEO SERIES (Gaming Mid-Range / Popular) ---
+      - iQOO Neo 11 / 11 Pro
+      - iQOO Neo 10 / 10 Pro / 10R / 10 Pro+
+      - iQOO Neo 9 / Neo 9 Pro / Neo 9S Pro+
+      - iQOO Neo 8 / Neo 8 Pro
+      - iQOO Neo 7 / Neo 7 Pro / Neo 7 Racing / Neo 7 SE
+      - iQOO Neo 6 / Neo 6 SE
+      - iQOO Neo 5 / Neo 5S / Neo 5 Lite
+
+      # --- Z SERIES (Budget Performance / High Volume) ---
+      - iQOO Z11 / Z11 Turbo / Z11x
+      - iQOO Z10 / Z10 Turbo / Z10 Turbo+ / Z10x / Z10 Lite
+      - iQOO Z9 / Z9 Pro / Z9s / Z9s Pro / Z9x / Z9 Lite
+      - iQOO Z8 / Z8x
+      - iQOO Z7 / Z7 Pro / Z7s / Z7x / Z7i
+      - iQOO Z6 / Z6 Pro / Z6 44W / Z6 Lite / Z6x
+      - iQOO Z5 / Z5x
+      - iQOO Z3 / Z1
