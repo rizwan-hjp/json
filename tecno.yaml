@@ -1,46 +1,44 @@
-brands:
-  - name: Tecno
-    models:
-      # --- CAMON SERIES (Camera & Premium) ---
-      - Tecno Camon 30 / 30 Pro / 30 5G / 30 Premier
-      - Tecno Camon 20 / 20 Pro / 20 Premier / 20 Pro 5G
-      - Tecno Camon 19 / 19 Pro / 19 Pro 5G / 19 Neo
-      - Tecno Camon 18 / 18 Pro / 18i / 18 Premier
-      - Tecno Camon 17 / 17 Pro / 17P
-      - Tecno Camon 16 / 16 Pro / 16 Premier / 16S
-      - Tecno Camon 15 / 15 Pro / 15 Premier / 15 Air
-      - Tecno Camon 12 / 12 Pro / 12 Air
-      - Tecno Camon 11 / 11 Pro
-      - Tecno Camon i4 / i2 / iAce
+models:
+  # --- CAMON SERIES (Camera & Premium) ---
+  - Tecno Camon 30 / Tecno Camon 30 Pro / Tecno Camon 30 5G / Tecno Camon 30 Premier
+  - Tecno Camon 20 / Tecno Camon 20 Pro / Tecno Camon 20 Premier / Tecno Camon 20 Pro 5G
+  - Tecno Camon 19 / Tecno Camon 19 Pro / Tecno Camon 19 Pro 5G / Tecno Camon 19 Neo
+  - Tecno Camon 18 / Tecno Camon 18 Pro / Tecno Camon 18i / Tecno Camon 18 Premier
+  - Tecno Camon 17 / Tecno Camon 17 Pro / Tecno Camon 17P
+  - Tecno Camon 16 / Tecno Camon 16 Pro / Tecno Camon 16 Premier / Tecno Camon 16S
+  - Tecno Camon 15 / Tecno Camon 15 Pro / Tecno Camon 15 Premier / Tecno Camon 15 Air
+  - Tecno Camon 12 / Tecno Camon 12 Pro / Tecno Camon 12 Air
+  - Tecno Camon 11 / Tecno Camon 11 Pro
+  - Tecno Camon i4 / Tecno Camon i2 / Tecno Camon iAce
 
-      # --- SPARK SERIES (Most Common Repairs) ---
-      - Tecno Spark 20 / 20 Pro / 20 Pro+ / 20C / 20S
-      - Tecno Spark 10 / 10 Pro / 10C / 10 5G
-      - Tecno Spark 9 / 9T / 9 Pro
-      - Tecno Spark 8 / 8P / 8 Pro / 8C
-      - Tecno Spark 7 / 7P / 7 Pro / 7T
-      - Tecno Spark 6 / 6 Go / 6 Air
-      - Tecno Spark 5 / 5 Pro / 5 Air
-      - Tecno Spark 4 / 4 Lite / 4 Air
-      - Tecno Spark 3 / 3 Pro
-      - Tecno Spark Go (2020 / 2021 / 2022 / 2023 / 2024)
+  # --- SPARK SERIES (Most Common Repairs) ---
+  - Tecno Spark 20 / Tecno Spark 20 Pro / Tecno Spark 20 Pro+ / Tecno Spark 20C / Tecno Spark 20S
+  - Tecno Spark 10 / Tecno Spark 10 Pro / Tecno Spark 10C / Tecno Spark 10 5G
+  - Tecno Spark 9 / Tecno Spark 9T / Tecno Spark 9 Pro
+  - Tecno Spark 8 / Tecno Spark 8P / Tecno Spark 8 Pro / Tecno Spark 8C
+  - Tecno Spark 7 / Tecno Spark 7P / Tecno Spark 7 Pro / Tecno Spark 7T
+  - Tecno Spark 6 / Tecno Spark 6 Go / Tecno Spark 6 Air
+  - Tecno Spark 5 / Tecno Spark 5 Pro / Tecno Spark 5 Air
+  - Tecno Spark 4 / Tecno Spark 4 Lite / Tecno Spark 4 Air
+  - Tecno Spark 3 / Tecno Spark 3 Pro
+  - Tecno Spark Go (2020 / 2021 / 2022 / 2023 / 2024)
 
-      # --- POVA SERIES (Battery & Performance) ---
-      - Tecno Pova 6 / 6 Pro / 6 Neo
-      - Tecno Pova 5 / 5 Pro
-      - Tecno Pova 4 / 4 Pro
-      - Tecno Pova 3 / 2 / Neo
-      - Tecno Pova (First Gen)
+  # --- POVA SERIES (Battery & Performance) ---
+  - Tecno Pova 6 / Tecno Pova 6 Pro / Tecno Pova 6 Neo
+  - Tecno Pova 5 / Tecno Pova 5 Pro
+  - Tecno Pova 4 / Tecno Pova 4 Pro
+  - Tecno Pova 3 / Tecno Pova 2 / Tecno Pova Neo
+  - Tecno Pova (First Gen)
 
-      # --- POP SERIES (Entry-Level) ---
-      - Tecno Pop 8 / Pop 7 / Pop 7 Pro
-      - Tecno Pop 6 / Pop 6 Pro
-      - Tecno Pop 5 / Pop 5 Pro / Pop 5 LTE
-      - Tecno Pop 4 / Pop 4 Pro
-      - Tecno Pop 3 / 2 / 2F
+  # --- POP SERIES (Entry-Level) ---
+  - Tecno Pop 8 / Tecno Pop 7 / Tecno Pop 7 Pro
+  - Tecno Pop 6 / Tecno Pop 6 Pro
+  - Tecno Pop 5 / Tecno Pop 5 Pro / Tecno Pop 5 LTE
+  - Tecno Pop 4 / Tecno Pop 4 Pro
+  - Tecno Pop 3 / Tecno Pop 2 / Tecno Pop 2F
 
-      # --- PHANTOM SERIES (Flagship / Curved) ---
-      - Tecno Phantom V Fold / V Flip
-      - Tecno Phantom X2 / X2 Pro
-      - Tecno Phantom X
-      - Tecno Phantom 9 / 8 / 6
+  # --- PHANTOM SERIES (Flagship / Curved) ---
+  - Tecno Phantom V Fold / Tecno Phantom V Flip
+  - Tecno Phantom X2 / Tecno Phantom X2 Pro
+  - Tecno Phantom X
+  - Tecno Phantom 9 / Tecno Phantom 8 / Tecno Phantom 6
