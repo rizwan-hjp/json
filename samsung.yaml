@@ -1,6 +1,4 @@
-brands:
-  - name: Samsung
-    models:
+   models:
       # --- S SERIES (Flagship / Premium AMOLED) ---
       - Galaxy S25 Ultra / S25+ / S25
       - Galaxy S24 Ultra / S24+ / S24 / S24 FE
