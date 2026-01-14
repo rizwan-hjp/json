@@ -1,0 +1,39 @@
+brands:
+  - name: Nokia
+    models:
+      # --- G SERIES (Modern Mid-Range / High Volume) ---
+      - Nokia G60 5G / G50 5G
+      - Nokia G42 5G / G310 5G
+      - Nokia G22 / G21 / G20
+      - Nokia G11 / G11 Plus / G10
+      - Nokia G100 / G400
+
+      # --- X & XR SERIES (Rugged / Premium) ---
+      - Nokia XR21 / XR20 (Rugged Series)
+      - Nokia X30 5G / X20 / X10
+      - Nokia X100 / X71 / X7 / X6
+
+      # --- C SERIES (Budget Android / Common Repairs) ---
+      - Nokia C32 / C31 / C30
+      - Nokia C22 / C21 / C21 Plus
+      - Nokia C12 / C10 / C01 / C02
+      - Nokia C3 / C2 / C1 / C1 Plus
+
+      # --- CLASSIC ANDROID SERIES (1.x to 9.x) ---
+      - Nokia 9 PureView
+      - Nokia 8.3 5G / 8.1 / 8
+      - Nokia 7.2 / 7.1 / 7 Plus
+      - Nokia 6.2 / 6.1 / 6 Plus / 6
+      - Nokia 5.4 / 5.3 / 5.1 / 5
+      - Nokia 4.2 / 3.4 / 3.2 / 3.1 / 2.4 / 2.3
+
+      # --- FEATURE PHONES (Button Phones - High Volume) ---
+      - Nokia 3310 (4G/2017)
+      - Nokia 105 / 106 / 110 (All Generations)
+      - Nokia 215 / 225 / 230
+      - Nokia 5310 / 6310 / 8210 (Reborn Series)
+      - Nokia 150 / 125
+
+      # --- LEGACY LUMIA (Windows Phone) ---
+      - Lumia 1520 / 1020 / 950 / 930
+      - Lumia 730 / 640 / 640 XL / 535
