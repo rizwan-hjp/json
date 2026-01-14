@@ -1,0 +1,61 @@
+brands:
+  - name: OPPO
+    models:
+      # --- RENO SERIES (Premium Parts) ---
+      - Reno 12 / 12 Pro / 12S
+      - Reno 11 / 11 Pro / 11F
+      - Reno 10 / 10 Pro / 10 Pro+
+      - Reno 8 / 8 Pro / 8 Lite / 8T
+      - Reno 7 / 7 Pro / 7Z / 7SE
+      - Reno 6 / 6 Pro / 6Z
+      - Reno 5 / 5 Pro / 5 Lite / 5F
+      - Reno 4 / 4 Pro / 4 Lite / 4Z
+      - Reno 3 / 3 Pro
+      - Reno 2 / 2F / 2Z
+      - Reno / Reno 10x Zoom
+
+      # --- A SERIES (High Volume Spare Parts) ---
+      - OPPO A3 / A3 Pro / A3x
+      - OPPO A18 / A38 / A58 / A78 / A98
+      - OPPO A17 / A17k
+      - OPPO A16 / A16s / A16k
+      - OPPO A15 / A15s
+      - OPPO A96 / A95 / A94 / A93
+      - OPPO A77 / A77s / A76 / A74
+      - OPPO A57 (2022) / A57s
+      - OPPO A55 / A54 / A53 / A53s
+      - OPPO A52 / A72 / A92
+      - OPPO A31 / A33 (2020)
+      - OPPO A5 (2020) / A9 (2020)
+      - OPPO A1k / A3s / A5s / A7
+      - OPPO A83 / A71 / A57 (Old)
+      - OPPO A37 / A37f
+
+      # --- F SERIES (Selfie Expert / Popular in Asia) ---
+      - OPPO F27 / F27 Pro+
+      - OPPO F25 Pro
+      - OPPO F23
+      - OPPO F21 Pro / F21s Pro
+      - OPPO F19 / F19 Pro / F19 Pro+
+      - OPPO F17 / F17 Pro
+      - OPPO F15
+      - OPPO F11 / F11 Pro
+      - OPPO F9 / F9 Pro
+      - OPPO F7 / F7 Youth
+      - OPPO F5 / F5 Youth
+      - OPPO F3 / F3 Plus
+      - OPPO F1 / F1s / F1 Plus
+
+      # --- FIND SERIES (Flagship) ---
+      - Find X7 / X7 Ultra
+      - Find X6 / X6 Pro
+      - Find X5 / X5 Pro / X5 Lite
+      - Find X3 / X3 Pro / X3 Neo / X3 Lite
+      - Find X2 / X2 Pro
+      - Find X
+
+      # --- K SERIES ---
+      - OPPO K12 / K12x
+      - OPPO K11 / K11x
+      - OPPO K10 / K10 Pro / K10 5G
+      - OPPO K9 / K9s / K9 Pro
