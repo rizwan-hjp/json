@@ -1,0 +1,41 @@
+brands:
+  - name: OnePlus
+    models:
+      # --- FLAGSHIP SERIES (High-End AMOLED & Curved Glass) ---
+      - OnePlus 15 / 15 Pro / 15R
+      - OnePlus 14 / 14 Pro / 14R
+      - OnePlus 13 / 13 Pro / 13R / 13s
+      - OnePlus 12 / 12R
+      - OnePlus 11 / 11R
+      - OnePlus 10 Pro / 10T / 10R
+      - OnePlus 9 / 9 Pro / 9R / 9RT
+      - OnePlus 8 / 8 Pro / 8T
+      - OnePlus 7 / 7 Pro / 7T / 7T Pro
+      - OnePlus 6 / 6T
+      - OnePlus 5 / 5T
+      - OnePlus 3 / 3T
+
+      # --- NORD SERIES (Mid-Range / High Volume Repairs) ---
+      - OnePlus Nord 6 / 6 Pro / 6 Lite
+      - OnePlus Nord 5 / 5G
+      - OnePlus Nord 4 / 4 Lite
+      - OnePlus Nord 3 / 3 5G
+      - OnePlus Nord 2 / 2T 5G
+      - OnePlus Nord CE 6 / CE 6 Lite
+      - OnePlus Nord CE 5 / CE 5 Lite
+      - OnePlus Nord CE 4 / CE 4 Lite
+      - OnePlus Nord CE 3 / CE 3 Lite
+      - OnePlus Nord CE 2 / CE 2 Lite
+      - OnePlus Nord CE 5G
+      - OnePlus Nord N30 / N20 / N10 / N100
+
+      # --- ACE SERIES (Performance / Import Models) ---
+      - OnePlus Ace 6 / 6 Pro / 6 Ultra / 6T
+      - OnePlus Ace 5 / 5 Pro / 5V
+      - OnePlus Ace 3 / 3 Pro / 3V
+      - OnePlus Ace 2 / 2 Pro / 2V
+      - OnePlus Ace / Ace Pro / Ace Racing
+
+      # --- SPECIAL SERIES ---
+      - OnePlus Open 2 / Open (Foldables)
+      - OnePlus Pad 3 / Pad 2 / Pad Go (Tablets)
