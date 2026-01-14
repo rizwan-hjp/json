@@ -1,42 +1,132 @@
 models:
   # --- S SERIES (Flagship / Premium AMOLED) ---
-  - Galaxy S25 Ultra / S25+ / S25
-  - Galaxy S24 Ultra / S24+ / S24 / S24 FE
-  - Galaxy S23 Ultra / S23+ / S23 / S23 FE
-  - Galaxy S22 Ultra / S22+ / S22
-  - Galaxy S21 Ultra / S21+ / S21 / S21 FE
-  - Galaxy S20 Ultra / S20+ / S20 / S20 FE
-  - Galaxy S10 / S10+ / S10e / S10 Lite
-  - Galaxy S9 / S9+ / S8 / S8+
+  - Galaxy S25 Ultra
+  - Galaxy S25+
+  - Galaxy S25
+  - Galaxy S24 Ultra
+  - Galaxy S24+
+  - Galaxy S24
+  - Galaxy S24 FE
+  - Galaxy S23 Ultra
+  - Galaxy S23+
+  - Galaxy S23
+  - Galaxy S23 FE
+  - Galaxy S22 Ultra
+  - Galaxy S22+
+  - Galaxy S22
+  - Galaxy S21 Ultra
+  - Galaxy S21+
+  - Galaxy S21
+  - Galaxy S21 FE
+  - Galaxy S20 Ultra
+  - Galaxy S20+
+  - Galaxy S20
+  - Galaxy S20 FE
+  - Galaxy S10
+  - Galaxy S10+
+  - Galaxy S10e
+  - Galaxy S10 Lite
+  - Galaxy S9
+  - Galaxy S9+
+  - Galaxy S8
+  - Galaxy S8+
 
   # --- A SERIES (Highest Repair Volume) ---
-  - Galaxy A56 / A36 / A16 / A06
-  - Galaxy A55 / A35 / A25 / A15 / A05s
-  - Galaxy A54 / A34 / A24 / A14 / A04s
-  - Galaxy A53 / A33 / A23 / A13 / A03s
-  - Galaxy A52 / A52s / A32 / A22 / A12
-  - Galaxy A51 / A71 / A31 / A21s / A11
-  - Galaxy A50 / A70 / A30 / A20 / A10
-  - Galaxy A7 (2018) / A8 (2018) / A9 (2018)
+  - Galaxy A56
+  - Galaxy A36
+  - Galaxy A16
+  - Galaxy A06
+  - Galaxy A55
+  - Galaxy A35
+  - Galaxy A25
+  - Galaxy A15
+  - Galaxy A05s
+  - Galaxy A54
+  - Galaxy A34
+  - Galaxy A24
+  - Galaxy A14
+  - Galaxy A04s
+  - Galaxy A53
+  - Galaxy A33
+  - Galaxy A23
+  - Galaxy A13
+  - Galaxy A03s
+  - Galaxy A52
+  - Galaxy A52s
+  - Galaxy A32
+  - Galaxy A22
+  - Galaxy A12
+  - Galaxy A51
+  - Galaxy A71
+  - Galaxy A31
+  - Galaxy A21s
+  - Galaxy A11
+  - Galaxy A50
+  - Galaxy A70
+  - Galaxy A30
+  - Galaxy A20
+  - Galaxy A10
+  - Galaxy A7 (2018)
+  - Galaxy A8 (2018)
+  - Galaxy A9 (2018)
 
   # --- M & F SERIES (Online / Budget Models) ---
-  - Galaxy M56 / M36 / M16 / M06
-  - Galaxy M55 / M35 / M15 / M14 / M13
-  - Galaxy M52 / M32 / M22 / M12 / M02
-  - Galaxy M51 / M31 / M21 / M11
-  - Galaxy F56 / F16 / F06
-  - Galaxy F55 / F54 / F34 / F15 / F05
-  - Galaxy F23 / F22 / F12 / F02s
+  - Galaxy M56
+  - Galaxy M36
+  - Galaxy M16
+  - Galaxy M06
+  - Galaxy M55
+  - Galaxy M35
+  - Galaxy M15
+  - Galaxy M14
+  - Galaxy M13
+  - Galaxy M52
+  - Galaxy M32
+  - Galaxy M22
+  - Galaxy M12
+  - Galaxy M02
+  - Galaxy M51
+  - Galaxy M31
+  - Galaxy M21
+  - Galaxy M11
+  - Galaxy F56
+  - Galaxy F16
+  - Galaxy F06
+  - Galaxy F55
+  - Galaxy F54
+  - Galaxy F34
+  - Galaxy F15
+  - Galaxy F05
+  - Galaxy F23
+  - Galaxy F22
+  - Galaxy F12
+  - Galaxy F02s
 
   # --- Z SERIES (Foldables / Specialized Parts) ---
-  - Galaxy Z Fold 7 / Z Flip 7
-  - Galaxy Z Fold 6 / Z Flip 6
-  - Galaxy Z Fold 5 / Z Flip 5
-  - Galaxy Z Fold 4 / Z Flip 4
-  - Galaxy Z Fold 3 / Z Flip 3
-  - Galaxy Z Fold 2 / Z Flip (4G / 5G)
+  - Galaxy Z Fold 7
+  - Galaxy Z Flip 7
+  - Galaxy Z Fold 6
+  - Galaxy Z Flip 6
+  - Galaxy Z Fold 5
+  - Galaxy Z Flip 5
+  - Galaxy Z Fold 4
+  - Galaxy Z Flip 4
+  - Galaxy Z Fold 3
+  - Galaxy Z Flip 3
+  - Galaxy Z Fold 2
+  - Galaxy Z Flip 4G
+  - Galaxy Z Flip 5G
 
   # --- J SERIES (Legacy / Common Basic Repairs) ---
-  - Galaxy J8 / J7 (Prime / Max / Pro / Nxt)
-  - Galaxy J6 / J6+ / J4 / J4+
-  - Galaxy J2 (2018) / J2 Pro / J2 Core
+  - Galaxy J8
+  - Galaxy J7 Prime
+  - Galaxy J7 Max
+  - Galaxy J7 Pro
+  - Galaxy J7 Nxt
+  - Galaxy J6
+  - Galaxy J6+
+  - Galaxy J4
+  - Galaxy J4+
+  - Galaxy J2 (2018)
+  - Galaxy J2 Pro
+  - Galaxy J2 Core
