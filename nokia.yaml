@@ -1,37 +1,89 @@
 models:
   # --- G SERIES (Modern Mid-Range / High Volume) ---
-  - Nokia G60 5G / Nokia G50 5G
-  - Nokia G42 5G / Nokia G310 5G
-  - Nokia G22 / Nokia G21 / Nokia G20
-  - Nokia G11 / Nokia G11 Plus / Nokia G10
-  - Nokia G100 / Nokia G400
+  - Nokia G60 5G
+  - Nokia G50 5G
+  - Nokia G42 5G
+  - Nokia G310 5G
+  - Nokia G22
+  - Nokia G21
+  - Nokia G20
+  - Nokia G11
+  - Nokia G11 Plus
+  - Nokia G10
+  - Nokia G100
+  - Nokia G400
 
   # --- X & XR SERIES (Rugged / Premium) ---
-  - Nokia XR21 / Nokia XR20
-  - Nokia X30 5G / Nokia X20 / Nokia X10
-  - Nokia X100 / Nokia X71 / Nokia X7 / Nokia X6
+  - Nokia XR21
+  - Nokia XR20
+  - Nokia X30 5G
+  - Nokia X20
+  - Nokia X10
+  - Nokia X100
+  - Nokia X71
+  - Nokia X7
+  - Nokia X6
 
   # --- C SERIES (Budget Android / Common Repairs) ---
-  - Nokia C32 / Nokia C31 / Nokia C30
-  - Nokia C22 / Nokia C21 / Nokia C21 Plus
-  - Nokia C12 / Nokia C10 / Nokia C01 / Nokia C02
-  - Nokia C3 / Nokia C2 / Nokia C1 / Nokia C1 Plus
+  - Nokia C32
+  - Nokia C31
+  - Nokia C30
+  - Nokia C22
+  - Nokia C21
+  - Nokia C21 Plus
+  - Nokia C12
+  - Nokia C10
+  - Nokia C01
+  - Nokia C02
+  - Nokia C3
+  - Nokia C2
+  - Nokia C1
+  - Nokia C1 Plus
 
   # --- CLASSIC ANDROID SERIES (Android 1.x–9.x Era) ---
   - Nokia 9 PureView
-  - Nokia 8.3 5G / Nokia 8.1 / Nokia 8
-  - Nokia 7.2 / Nokia 7.1 / Nokia 7 Plus
-  - Nokia 6.2 / Nokia 6.1 / Nokia 6 Plus / Nokia 6
-  - Nokia 5.4 / Nokia 5.3 / Nokia 5.1 / Nokia 5
-  - Nokia 4.2 / Nokia 3.4 / Nokia 3.2 / Nokia 3.1 / Nokia 2.4 / Nokia 2.3
+  - Nokia 8.3 5G
+  - Nokia 8.1
+  - Nokia 8
+  - Nokia 7.2
+  - Nokia 7.1
+  - Nokia 7 Plus
+  - Nokia 6.2
+  - Nokia 6.1
+  - Nokia 6 Plus
+  - Nokia 6
+  - Nokia 5.4
+  - Nokia 5.3
+  - Nokia 5.1
+  - Nokia 5
+  - Nokia 4.2
+  - Nokia 3.4
+  - Nokia 3.2
+  - Nokia 3.1
+  - Nokia 2.4
+  - Nokia 2.3
 
   # --- FEATURE PHONES (Button Phones / High Volume) ---
-  - Nokia 3310 (2017 / 4G)
-  - Nokia 105 / Nokia 106 / Nokia 110 (All Generations)
-  - Nokia 215 / Nokia 225 / Nokia 230
-  - Nokia 5310 / Nokia 6310 / Nokia 8210 (Reborn Series)
-  - Nokia 150 / Nokia 125
+  - Nokia 3310 (2017)
+  - Nokia 3310 4G
+  - Nokia 105 (All Generations)
+  - Nokia 106 (All Generations)
+  - Nokia 110 (All Generations)
+  - Nokia 215
+  - Nokia 225
+  - Nokia 230
+  - Nokia 5310
+  - Nokia 6310
+  - Nokia 8210 (Reborn Series)
+  - Nokia 150
+  - Nokia 125
 
   # --- LEGACY LUMIA (Windows Phone) ---
-  - Lumia 1520 / Lumia 1020 / Lumia 950 / Lumia 930
-  - Lumia 730 / Lumia 640 / Lumia 640 XL / Lumia 535
+  - Lumia 1520
+  - Lumia 1020
+  - Lumia 950
+  - Lumia 930
+  - Lumia 730
+  - Lumia 640
+  - Lumia 640 XL
+  - Lumia 535
